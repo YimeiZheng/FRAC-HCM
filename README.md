@@ -4,6 +4,10 @@ Codes for *Multimodal medical image fusion based on edge detection and salient f
 Yimei Zheng, Xiaosong Li, Xiaoqi Cheng, Haishu Tan
 
 -*[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809425007608)]*
+# Update
+· [2025-7]  README.md is updated.
+
+· [2025-6]  Codes and config files are public available.
 # Citation
 ``` 
 @article{zheng2025multimodal, 
