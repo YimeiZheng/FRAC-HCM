@@ -25,6 +25,7 @@ Multimodal medical image fusion integrates the complementary details from variou
 # 🙌 MCAFusion
 **Illustration of our MCAFusion method.**
 ![FRAC-HCM](https://github.com/user-attachments/assets/45665a49-938a-4a93-8ec9-93bb0e5967c1)
+![FRAC-HCM](https://github.com/user-attachments/assets/507c6ebf-b3f3-4383-9446-d1a628e4e3f7)
 
 # Contact
 Please feel free to report issues and any related problems to Yimei Zheng (zhengyimei98@gmail.com).
