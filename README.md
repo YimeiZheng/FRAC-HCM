@@ -42,7 +42,7 @@ This code is designed to run in the **MATLAB environment**.
 
       main_T1_T2.m
 
-Please input the paths for the source images (**ImgA** and **ImgB**) after opening the code in MATLAB, then click Run to obtain the fusion result.
+After opening the corresponding script in MATLAB, input the paths for the source images (**ImgA** and **ImgB**), then click Run to obtain the fusion result.
 
 # Abstract
 Multimodal medical image fusion integrates the complementary details from various imaging modalities for biomedical diagnostic applications. Although image fusion has been developing significantly in recent years, simultaneously retaining the edge and salient regions remains challenging. In this paper, we introduce a fusion approach based on edge detection and salient feature extraction. Particularly, a detection model that combines a fuzzy region-based active contour (FRAC) and a heat conduction matrix is proposed to extract the edge details. The edge details are fused based on the gradient magnitude. In addition, a local phase coherence intensity and pseudo-level set-based rule are developed to fuse the salient regions extracted by FRAC. The final fused image is reconstructed by integrating the preferred energy, edges, and salient features. Comparative experiments indicate that the proposed approach surpasses advanced methods in both quantitative and qualitative assessments. Our method achieved average improvements of 23.74 %, 0.95 %, 14.26 %, 12.39 %, 10.91 %, 21.06 %, 17.76 %, and 19.34 % for the QMI, QNCIE, SF, SD, AG, MS-SSIM, QS, and QAB/F metrics, respectively. The source code of this work is available at https://github.com/YimeiZheng/FRAC-HCM.
