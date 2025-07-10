@@ -1,5 +1,5 @@
 # FRAC-HCM
-This package contains the MATLAB codes for *Multimodal medical image fusion based on edge detection and salient feature extraction. (BSPC 2025)*
+This package contains the MATLAB code for *Multimodal medical image fusion based on edge detection and salient feature extraction. (BSPC 2025)*
 
 Yimei Zheng, Xiaosong Li, Xiaoqi Cheng, Haishu Tan
 
@@ -53,7 +53,7 @@ Multimodal medical image fusion integrates the complementary details from variou
 ![FRAC-HCM 1](https://github.com/YimeiZheng/FRAC-HCM/blob/main/FRAC-HCM.png?raw=true)  
 
 # Contact
-Don¡'t hesitate to contact me if you meet any problems when using this code.
+Don't hesitate to contact me if you meet any problems when using this code.
 
 Author: Yimei Zheng                                                         
 Email: zhengyimei98@gmail.com.
